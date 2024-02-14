@@ -1,0 +1,1 @@
+Desafio proposto na aula 8 do curso de C# na plataforma Alura: Criar uma lista de linguagens de programação, com as linguagens C#, Java e JavaScript. Exibir o valor "C#" no console, utilizando a lista criada no exercício anterior.
